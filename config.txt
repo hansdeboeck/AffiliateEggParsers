@@ -1,0 +1,12 @@
+  'coolbluebe' => array(
+        'name' => 'Coolblue.be',
+        'uri' => 'http://coolblue.be',
+        'ico' => 'http://www.google.com/s2/favicons?domain=coolblue.be',
+        'search_uri' => 'https://www.coolblue.be/zoeken?query=%KEYWORD%',
+    ),
+      'vandenborrebe' => array(
+        'name' => 'Vandenborre.be',
+        'uri' => 'http://vandenborre.be',
+        'ico' => 'http://www.google.com/s2/favicons?domain=andenborre.be',
+        'search_uri' => 'https://www.vandenborre.be/zoekresultaat?query=%KEYWORD%',
+    ),
